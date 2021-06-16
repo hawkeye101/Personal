@@ -1,3 +1,5 @@
+/* INPUT IS IN FORM OF STRING!!! */
+
 #include <iostream>
 #include <math.h>
 #include <sstream>
